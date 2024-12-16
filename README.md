@@ -14,8 +14,18 @@ Enable the **Send Alert on Lab Duration Completion** option and set **threshold 
 
    ![](/img/01.png)
 
-3. Scroll down to the **Send Alert On Lab Duration Completion** section and enable the checkbox.
+3. Scroll down to the **Send Alert On Lab Duration Completion (1)** section and enable the checkbox.
+
+4. Then, set the **Threshold limits for email alerts (in minutes) (2)** based on your requirements. If you want to add more threshold limits, click the **+ (3)** button. 
+
+5. Click on **Submit (4)** button.
 
    ![](/img/02.png)
 
-4. 
+6. Once the user deployment is made and the user duration is coming to an end, based on the threshold limit set, the following output will be displayed:
+
+   ![](/img/03.png)
+
+   ![](/img/04.png)
+
+   ![](/img/05.png)
