@@ -22,7 +22,7 @@ Enable the **Send Alert on Lab Duration Completion** option and set **threshold 
 
    ![](/img/02.png)
 
-6. Once the user deployment is made and the user duration is coming to an end, based on the threshold limit set, the following output will be displayed:
+6. Once the user deployment is made and the user duration is coming to an end, based on the threshold limit set, the following alert will be sent to the respective user.
 
    ![](/img/03.png)
 
