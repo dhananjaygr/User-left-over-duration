@@ -1,4 +1,4 @@
-## User-left-over-duration
+## User left over duration alerts 
 
 ### Feature Requirement
 Set up an alert email to notify when a user is nearing 70% or 80% of the total duration.
